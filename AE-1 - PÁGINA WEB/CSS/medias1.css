@@ -1,0 +1,773 @@
+/*DE 1300 EN ADELANTE*/
+@media only screen and (min-device-width: 1301px) {
+    .imag-inicio{
+        width:900px;
+        height:500px;
+    }
+  }
+  
+  /*ENTRE ESTE RANGO*/
+  @media only screen and (min-device-width: 900px) and (max-device-width: 1300px)  {
+    .logo-nav-container > .nav-img > img {
+        height: 150px;
+        width: 700px;
+        max-height: 150px;
+      }
+     
+      .ima{
+        width:200px;
+        height:200px;
+      }
+      .ima2{
+        width:200px;
+        height:200px;
+      }
+      .logo-nav-container > .nav-img > img {
+        width:400px;
+      }
+      .genera {
+        width: 350px;
+        margin:0px;
+      }
+      .premiado {
+        width: 350px;
+        margin-top: 50px;
+      }
+      .traba1:link{
+        width:150px;
+        margin:40px 0px 0px 50px;
+      }
+      .traba1:visited{
+        width:150px;
+        margin:40px 0px 0px 50px;
+      }
+      .env{
+        margin: 0px 0px 0px 200px;
+    }
+    .imag-inicio{
+      width:600px;
+      height:400px;
+    }
+  }
+
+
+/*LANDSCAPE --> HORIZONTAL IPAD AIR 1180*820*/
+@media only screen and (max-device-width:1181px) and (orientation: landscape){
+    nav .elementos-menu li a{
+        font-size: 20px;
+        margin:0px 0px 0px 0px;
+        padding:0px 0px 0px 0px;
+    }
+
+    .logo-nav-container > .nav-img > img {
+        height: 150px;
+        width: 500px;
+        max-height: 150px;
+      }
+
+      .logo-texto {
+        color: white;
+        letter-spacing: 15px;
+        font-size: 18px;
+        text-align: center;
+        text-align-last: left;
+        margin-bottom: 40px;
+      }
+      .esti3 {
+       width:300px;
+      }
+      .esti4{
+        width:880px;
+      }
+      .imag-inicio{
+          width:700px;
+          height:500px;
+      }
+      .genera {
+        width: 350px;
+        margin:0px;
+      }
+      .premiado {
+        width: 350px;
+        margin-top: 50px;
+      }
+      .aleato{
+          font-size: 18px;
+          width: 280px;
+          margin-bottom: 20px;
+      }
+      .volver{
+          width: 250px;
+          margin-top: 60px;
+      }
+      .form-texto{
+        width:490px;
+        height:250px;
+      }
+      .env{
+          margin: 0px;
+      }
+      .traba1:link{
+        margin-left: 650px;
+      }
+      .traba1:visited{
+        margin-left: 650px;
+      }
+      .esti78{
+          width:880px;
+      }
+      .esti60{
+        width:880px;
+        height:100px;
+      }
+      .traba1:link{
+        display:block;
+        width:150px;
+        margin:40px 0px 0px 600px;
+      }
+      .traba1:visited{
+        display:block;
+        width:150px;
+        margin:40px 0px 0px 600px;
+      }
+      .cir30{
+          width:60%;
+      }
+      .cir3{
+          margin:0px 0px 30px 0px;
+      }
+      .ima{
+          width:180px;
+          height:200px;
+      }
+      .ima2{
+        width:180px;
+        height:200px;
+    }
+    .tam{
+        font-size: 30px;
+    }
+  }
+
+
+/*PORTRAIT --> VERTICAL IPAD AIR 820*1180*/
+@media only screen and (max-device-width:821px) and (orientation: portrait){
+    nav .elementos-menu li a{
+        font-size: 20px;
+        margin:0px 0px 0px 0px;
+        padding:0px 0px 0px 0px;
+    }
+
+    .logo-nav-container > .nav-img > img {
+        height: 150px;
+        width: 260px;
+        max-height: 150px;
+      }
+
+      .logo-texto {
+        color: white;
+        letter-spacing: 15px;
+        font-size: 18px;
+        text-align: center;
+        text-align-last: left;
+        margin-bottom: 40px;
+      }
+      .esti3 {
+       width:300px;
+       height:780px;
+      }
+      .esti4{
+        width:520px;
+        height:780px;
+      }
+      .imag-inicio{
+          width:400px;
+          height:300px;
+      }
+      .genera {
+        width: 350px;
+        margin:0px;
+      }
+      .premiado {
+        width: 350px;
+        margin-top: 50px;
+      }
+      .aleato{
+          font-size: 18px;
+          width: 280px;
+          margin-bottom: 20px;
+      }
+      .volver{
+          width: 250px;
+          margin-top: 60px;
+      }
+      .form-texto{
+        width:490px;
+        height:250px;
+      }
+      .env{
+          margin: 0px;
+      }
+      .esti78{
+          width:520px;
+      }
+      .esti60{
+        width:520px;
+        height:270px;
+      }
+      .traba1:link{
+        display:block;
+        width:150px;
+        margin:40px 0px 0px 300px;
+      }
+      .traba1:visited{
+        display:block;
+        width:150px;
+        margin:40px 0px 0px 300px;
+      }
+      .cir30{
+          width:60%;
+      }
+      .cir3{
+          margin:0px 0px 30px 0px;
+      }
+      .ima{
+          width:180px;
+          height:200px;
+      }
+      .ima2{
+        width:180px;
+        height:200px;
+    }
+    .tam{
+        font-size: 30px;
+    }
+  }
+
+
+/*LANDSCAPE --> HORIZONTAL IPAD MINI 1024*768*/
+@media only screen and (max-device-width:1025px) and (orientation: landscape){
+    nav .elementos-menu li a{
+        font-size: 20px;
+        margin:0px 0px 0px 0px;
+        padding:0px 0px 0px 0px;
+    }
+    .pat{
+    font-size: 25px;
+    }
+    .logo-nav-container > .nav-img > img {
+        height: 150px;
+        width:500px;
+        max-height: 150px;
+      }
+
+      .logo-texto {
+        color: white;
+        letter-spacing: 15px;
+        font-size: 18px;
+        text-align: center;
+        text-align-last: left;
+        margin-bottom: 40px;
+      }
+    
+    .traba1:link{
+        margin-left: 500px;
+    }
+    .traba1:visited{
+        margin-left: 500px;
+    }
+      .imag-inicio{
+          width:400px;
+          height:400px;
+      }
+      .genera {
+        width: 350px;
+        margin:0px;
+      }
+      .premiado {
+        width: 350px;
+        margin-top: 50px;
+      }
+      .aleato{
+          font-size: 18px;
+          width: 280px;
+          margin-bottom: 20px;
+      }
+      .volver{
+          width: 250px;
+          margin-top: 60px;
+      }
+      .form-texto{
+        width:550px;
+        height:250px;
+      }
+      .env{
+          margin: 0px;
+      }
+      
+      .cir30{
+          width:60%;
+      }
+      .cir3{
+          margin:0px 0px 30px 0px;
+      }
+    
+      .ima{
+          width:240px;
+          height:240px;
+      }
+      .ima2{
+        width:230px;
+        height:230px;
+        margin-left:0px;
+    }
+    .esti3{
+        height:800px;
+    }
+    .esti4{
+        width:724px;
+    }
+    .esti78{
+        width:724px;
+    }
+    .esti60{
+        width:724px;
+        height:290px;
+    }
+    }
+
+/*PORTRAIT --> VERTICAL IPAD MINI 768*1024*/
+@media only screen and (max-device-width:769px) and (orientation: portrait){
+    nav .elementos-menu li a{
+        font-size: 20px;
+        margin:0px 0px 0px 0px;
+        padding:0px 0px 0px 0px;
+    }
+
+    .logo-nav-container > .nav-img > img {
+        height: 150px;
+        width: 260px;
+        max-height: 150px;
+      }
+
+      .logo-texto {
+        color: white;
+        letter-spacing: 15px;
+        font-size: 18px;
+        text-align: center;
+        text-align-last: left;
+        margin-bottom: 40px;
+      }
+      .esti3 {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 10px;
+        text-align: center;
+        font-weight: bold;
+        background: linear-gradient(90deg, rgba(29,30,32,1) 0%, rgba(19,22,23,1) 35%, rgba(29,30,32,1) 100%);
+        color: red;
+      }
+      .esti4{
+          width:100%;
+      }
+      .imag-inicio{
+          width:400px;
+          height:400px;
+      }
+      .genera {
+        width: 350px;
+        margin:0px;
+      }
+      .premiado {
+        width: 350px;
+        margin-top: 50px;
+      }
+      .aleato{
+          font-size: 18px;
+          width: 280px;
+          margin-bottom: 20px;
+      }
+      .volver{
+          width: 250px;
+          margin-top: 60px;
+      }
+      .form-texto{
+        width:550px;
+        height:250px;
+      }
+      .env{
+          margin: 0px;
+      }
+      .esti78{
+          width:100%;
+      }
+      .traba1:link{
+        display:block;
+        width:150px;
+        margin:40px 0px 0px 580px;
+      }
+      .traba1:visited{
+        display:block;
+        width:150px;
+        margin:40px 0px 0px 580px;
+      }
+      .cir30{
+          width:60%;
+      }
+      .cir3{
+          margin:0px 0px 30px 0px;
+      }
+      .esti60{
+        width:100%;
+      }
+  }
+
+/*LANDSCAPE --> HORIZONTAL IPHONE XR 896*414*/
+@media only screen and (max-device-width:897px) and (orientation: landscape){
+    nav .elementos-menu li a{
+        font-size: 15px;
+        margin:0px 0px 0px 0px;
+        padding:0px 0px 0px 0px;
+    }
+
+    .logo-nav-container > .nav-img > img {
+        height: auto;
+        width: 380px;
+        max-height: 150px;
+      }
+
+      .logo-texto {
+        color: white;
+        letter-spacing: 15px;
+        font-size: 20px;
+        text-align: center;
+        text-align-last: left;
+        margin-bottom: 40px;
+      }
+      .esti3 {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 10px;
+        text-align: center;
+        font-weight: bold;
+        background: linear-gradient(90deg, rgba(29,30,32,1) 0%, rgba(19,22,23,1) 35%, rgba(29,30,32,1) 100%);
+        color: red;
+      }
+      .esti4{
+          width:100%;
+      }
+      .imag-inicio{
+          width:550px;
+          height:500px;
+      }
+      .genera {
+        width: 350px;
+        margin:0px;
+      }
+      .premiado {
+        width: 350px;
+        margin-top: 50px;
+      }
+      .aleato{
+          font-size: 18px;
+          width: 280px;
+          margin-bottom: 20px;
+      }
+      .volver{
+          width: 250px;
+          margin-top: 60px;
+      }
+      .form-texto{
+        width:550px;
+        height:250px;
+      }
+    
+      .env{
+          margin: 0px;
+      }
+      .esti78{
+          width:100%;
+      }
+      .traba1:link{
+        display:block;
+        width:150px;
+        margin: 20px 50px 0px 666px;
+      }
+      .traba1:visited{
+        display:block;
+        width:150px;
+        margin: 20px 50px 0px 666px;
+      }
+      .cir30{
+          width:50%;
+      }
+      .cir3{
+          margin:0px 0px 20px 0px;
+      }
+      .esti60{
+        width:100%;
+      }
+  }
+
+
+/*PORTRAIT --> VERTICAL IPHONE XR 414*896*/
+@media only screen and (max-device-width:480px) and (orientation: portrait){
+    nav .elementos-menu li a{
+        font-size: 9px;
+        margin:0px 0px 0px 0px;
+        padding:0px 0px 0px 0px;
+    }
+
+    .logo-nav-container > .nav-img > img {
+        height: auto;
+        width: 414px;
+        max-height: 150px;
+      }
+
+      .logo-texto {
+        color: white;
+        letter-spacing: 15px;
+        font-size: 20px;
+        text-align: center;
+        text-align-last: left;
+        margin-bottom: 40px;
+      }
+      .esti3 {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 10px;
+        text-align: center;
+        font-weight: bold;
+        background: linear-gradient(90deg, rgba(29,30,32,1) 0%, rgba(19,22,23,1) 35%, rgba(29,30,32,1) 100%);
+        color: red;
+      }
+      .esti4{
+          width:100%;
+      }
+      .imag-inicio{
+          width:250px;
+          height:250px;
+      }
+      .genera {
+        width: 350px;
+        margin:0px;
+      }
+      .premiado {
+        width: 350px;
+        margin-top: 50px;
+      }
+      .aleato{
+          font-size: 18px;
+          width: 280px;
+          margin-bottom: 20px;
+      }
+      .volver{
+          width: 250px;
+          margin-top: 60px;
+      }
+      .form-texto{
+        width:250px;
+        height:150px;
+      }
+    
+      .env{
+          margin: 0px;
+      }
+      .esti78{
+          width:100%;
+      }
+      .traba1:link{
+        display:block;
+        width:150px;
+        margin: 20px 50px 0px 166px;
+      }
+      .traba1:visited{
+        display:block;
+        width:150px;
+        margin: 20px 50px 0px 166px;
+      }
+      .cir30{
+          width:90%;
+      }
+      .cir3{
+          margin:0px 0px 10px 0px;
+      }
+      .esti60{
+        width:100%;
+      }
+  }
+
+/*LANDSCAPE --> HORIZONTAL IPHONE SE 667*375*/
+@media only screen and (max-device-width:668px) and (orientation: landscape) {
+    nav .elementos-menu li a{
+        font-size: 15px;
+        margin:0px 0px 0px 0px;
+        padding:0px 0px 0px 0px;
+    }
+
+    .logo-nav-container > .nav-img > img {
+        height: auto;
+        width: 300px;
+        max-height: 150px;
+      }
+
+      .logo-texto {
+        color: white;
+        letter-spacing: 15px;
+        font-size: 20px;
+        text-align: center;
+        text-align-last: left;
+        margin-bottom: 40px;
+        margin-left: 140px;
+      }
+      .esti3 {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 10px;
+        text-align: center;
+        font-weight: bold;
+        background: linear-gradient(90deg, rgba(29,30,32,1) 0%, rgba(19,22,23,1) 35%, rgba(29,30,32,1) 100%);
+        color: red;
+      }
+      .esti4{
+          width:100%;
+      }
+      .imag-inicio{
+          width:450px;
+          height:350px;
+      }
+      .genera {
+        width: 350px;
+        margin:0px;
+      }
+      .premiado {
+        width: 350px;
+        margin-top: 50px;
+      }
+      .aleato{
+          font-size: 18px;
+          width: 280px;
+          margin-bottom: 20px;
+      }
+      .volver{
+          width: 250px;
+          margin-top: 60px;
+      }
+      .form-texto{
+        width:250px;
+        height:150px;
+      }
+    
+      .env{
+          margin: 0px;
+      }
+      .esti78{
+          width:100%;
+      }
+      .traba1:link{
+        display:block;
+        width:150px;
+        margin: 20px 50px 0px 466px;
+      }
+      .traba1:visited{
+        display:block;
+        width:150px;
+        margin: 20px 50px 0px 466px;
+      }
+      .cir30{
+          width:90%;
+      }
+      .cir3{
+          margin:0px 0px 10px 0px;
+      }
+      .esti60{
+        width:100%;
+      }
+  }
+
+
+/*PORTRAIT --> VERTICAL IPHONE SE 375*667*/
+  @media only screen and (max-device-width:376px) and (orientation: portrait){
+    nav .elementos-menu li a{
+        font-size: 9px;
+        margin:0px 0px 100px 0px;
+        padding:0px 0px 0px 35px;
+    }
+
+    .logo-nav-container > .nav-img > img {
+        height: auto;
+        width: 375px;
+        max-height: 150px;
+      }
+
+      .logo-texto {
+        color: white;
+        letter-spacing: 15px;
+        font-size: 20px;
+        text-align: center;
+        text-align-last: left;
+        margin-bottom: 40px;
+      }
+      .esti3 {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 10px;
+        text-align: center;
+        font-weight: bold;
+        background: linear-gradient(90deg, rgba(29,30,32,1) 0%, rgba(19,22,23,1) 35%, rgba(29,30,32,1) 100%);
+        color: red;
+      }
+      .esti4{
+          width:100%;
+      }
+      .imag-inicio{
+          width:250px;
+          height:250px;
+      }
+      .genera {
+        width: 350px;
+        margin:0px;
+      }
+      .premiado {
+        width: 350px;
+        margin-top: 50px;
+      }
+      .aleato{
+          font-size: 18px;
+          width: 280px;
+          margin-bottom: 20px;
+      }
+      .volver{
+          width: 250px;
+          margin-top: 60px;
+      }
+      .form-texto{
+        width:250px;
+        height:150px;
+      }
+      .env{
+          margin: 0px;
+      }
+      .esti78{
+          width:100%;
+      }
+      .traba1:link{
+        display:block;
+        width:150px;
+        margin: 20px 50px 0px 166px;
+      }
+      .traba1:visited{
+        display:block;
+        width:150px;
+        margin: 20px 50px 0px 166px;
+      }
+      .cir30{
+          width:90%;
+      }
+      .cir3{
+          margin:0px 0px 10px 0px;
+      }
+      .esti60{
+        width:100%;
+      }
+  }

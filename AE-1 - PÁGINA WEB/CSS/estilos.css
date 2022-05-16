@@ -1,0 +1,378 @@
+@charset "UTF-8";
+
+
+/*ESTILOS DEL BODY*/
+body {
+    margin: 0;
+    background-color: #161819;
+}
+
+
+/*CONTENEDOR DE PUBLICIDADES Y CONTENIDO DE LA WEB*/
+.contenido-main {
+    height: 800px;
+}
+
+
+/*CONTENEDOR DE PUBLICIDAD*/
+.esti3{
+    width: 25%;
+    height: 100%; 
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    float:left;
+    background: linear-gradient(90deg, rgba(29,30,32,1) 0%, rgba(19,22,23,1) 35%, rgba(29,30,32,1) 100%);
+    color: red;
+}
+
+.esti3 > div {
+    margin: 15px;
+    border: 1px solid white;
+}
+
+
+/*CONTENEDOR CON EL CONTENIDO DE CONTACTA CON NOSOTROS EXCLUSIVO*/
+.esti78{
+    width: 75%;
+    height: 100%;
+    float: left;
+    background: linear-gradient(90deg, rgba(29,30,32,1) 0%, rgba(19,22,23,1) 35%, rgba(29,30,32,1) 100%);
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+/*CONTENEDOR CON EL CONTENIDO DE LA WEB*/
+.esti4{
+    width: 75%;
+    height: 100%;
+    float: left;
+    background: linear-gradient(90deg, rgba(29,30,32,1) 0%, rgba(19,22,23,1) 35%, rgba(29,30,32,1) 100%);
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+/*CONTENEDOR CON EL CONTENIDO DE LOGIN EXCLUSIVO*/
+.esti60{
+    width: 75%;
+    height: 100%;
+    float: left;
+    background: linear-gradient(90deg, rgba(29,30,32,1) 0%, rgba(19,22,23,1) 35%, rgba(29,30,32,1) 100%);
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 510px;
+    
+}
+
+
+/*CONTENEDOR DEL PIE*/
+.esti5{
+    background: #2A2D2E;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+/*EL ENLACE DE LOGIN DE HAS OLVIDADO TU CONTRASEÑA*/
+.line01:link{
+    text-decoration: none;
+    color: white;
+}
+.line01:visited{
+    text-decoration: none;
+    color: rgb(247, 243, 243);
+}
+
+
+/*ENALCE DE TRABAJA CON NOSOTROS*/
+.traba1:link{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    background-color: red;
+    border-radius:10px;
+    padding:5px;
+    margin-left: 180px;
+}
+
+.traba1:visited{
+    font-size: 20px;
+    color: yellow;
+    text-decoration: none;
+    background-color: red;
+    border-radius:10px;
+    padding:5px;
+    margin-left: 180px;
+}
+
+/*BOTON DE ENVIAR*/
+.env{
+    width:200px;
+    height:50px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 400px;
+}
+
+/*IMAGEN DE MAC DONALS*/
+.ima{
+    width:300px;
+    height:300px;
+}
+
+/*IMAGEN COCA COLA*/
+.ima2{
+    width:300px;
+    height:300px;
+    margin-top: 40px;
+    margin-left: -8px;
+}
+
+
+/*IMAGENES REDES SOCIALES*/
+.ima3{
+    width:50px;
+    height:40px;
+}
+.ima4{
+    width:50px;
+    height:40px;
+}
+.ima5{
+    width:50px;
+    height:40px;
+}
+
+/*CUADRO DONDE SE GENERAN EL NUMERO PREMIEADO Y EL ALEATORIO*/
+.aleato{
+    width:40%;
+    height:50px;
+    background-color: #E7E9E7;
+    font-size: 150%;
+}
+
+/*BOTON DE GENERAR NUMERO ALEATORIO*/
+.genera{
+    width:30%;
+    height: 50px;
+    background: linear-gradient(90deg, rgba(74,73,71,1) 0%, rgba(107,104,102,1) 50%, rgba(41,40,46,1) 100%);
+    font-weight: bold;
+    font-size:17px;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-top:100px;
+}
+
+/*BOTON DE GENERAR NUMERO PREMIADO*/
+.premiado{
+    width:30%;
+    height: 50px;
+    background: linear-gradient(90deg, rgba(74,73,71,1) 0%, rgba(107,104,102,1) 50%, rgba(41,40,46,1) 100%);
+    font-weight: bold;
+    font-size:17px;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+
+/*BOTON PARA VOLVER A APOSTAR*/
+.volver{
+    width:30%;
+    height: auto;
+    font-weight:bold;
+    font-size: 20px;
+    border-radius:30px;
+    background-color: white;
+    margin-top:130px;
+    padding:10px;
+}
+
+/*TITULO DE CONTACTA CON NOSOTROS*/
+.rea{
+    color: white;
+    font-size: 50px;
+    font-style: italic;
+}
+
+
+/*PONE COLOR ROJO A UN TROZO DE TEXTO DE LOS BOTONES DE ALEATORIO Y PREMIADO*/
+span{
+    color:red;
+}
+
+
+/*CUADRO DE TEXTO DE CONTACTA CON NOSTROS*/
+.cir{
+    border-radius:10px;
+    height:20px;
+}
+
+/*CUADRO DE TEXTO DE REGISTRO*/
+.cir3{
+    border-radius:10px;
+    height:20px;
+    margin-bottom: 35px;
+}
+
+/*CUADRO DE TEXTO DE REGISTRO*/
+.cir1{
+    border-radius:10px;
+    height:24px;
+}
+
+/**/
+.cir2{
+    border-radius:10px;
+    height:21.3px;
+    width: 17%;
+}
+
+/*CUADRO DE TEXTO DE REGISTRO*/
+.cir30{
+    border-radius:10px;
+    height:20px;
+    margin-bottom: 35px; 
+}
+
+.form-texto{
+    resize: none;
+    margin-left:0.5%;
+}
+.col2{
+    background-color:grey;
+    color: white;
+    position:absolute;
+    top:300px;
+    left: 20%;
+
+/*BOTONES DE REGISTRAR Y BORRAR EN REGISTRO*/
+}.neg{
+    font-weight: bold;
+}
+
+
+/*IMAGENE DE LA CABECERA*/
+.logo-nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 150px;
+    background: linear-gradient(90deg, rgba(29,30,32,1) 0%, rgba(19,22,23,1) 35%, rgba(29,30,32,1) 100%);
+}
+
+/*IMAGEN DE LA CABECERA*/
+.logo-nav-container > .nav-img {
+    width: 30%;
+    height: 100%;
+}
+
+
+/*IMAGEN DE LA CABECERA*/
+.logo-nav-container > .nav-img > img {
+    height: auto;
+    width: 100%;
+    max-height: 150px;
+}
+
+/*LETRAS DE LA CABECERA*/
+.logo-texto {
+    color: white;
+    letter-spacing: 15px;
+    font-size: 1.2em;
+}
+
+
+/*MENU*/
+nav {
+    background-color: rgba(42,45,46,1);
+    padding: 1px;
+}
+
+/*MENU*/
+nav .elementos-menu {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+/*MENU*/
+nav .elementos-menu li a {
+    text-decoration: none;
+    color: #E7E9E7;
+    font-size: 24px;
+    font-weight: 400;
+    transition: all 0.5s ease-in-out;
+    position: relative;
+    text-transform: uppercase;
+}
+
+/*MENU*/
+nav .elementos-menu li a::before {
+    content: attr(data-item);
+    transition: 0.5s;
+    color: #EB213A;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 0;
+    overflow: hidden;
+}
+
+/*MENU*/
+nav .elementos-menu li a:hover {
+    width: 100%;
+    transition: all 0.5s ease-in-out;
+    color: #EB213A;
+}
+
+
+/*CONTENEDOR PRINCIPAL DE TODO*/
+#contenedor{
+    height: 100%;
+}
+
+
+/*PIE*/
+.footer{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+/*IMAGEN DEL CONTENIDO DE INICIO*/
+.imag-inicio{
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+
+/*IMAGEN DEL CONTENIDO DE INICIO*/
+.imag-inicio > img {
+    height: 90%;
+    width: 100%;
+}
+
+
+/*CONTENEDOR DE PATROCINIO Y CONTENIDO*/
+.contenido-main-login {
+    height: 100%;
+}
+
+/*CONTENEDOR REDES SOCIALES*/
+.footer-social{
+    margin-left: 50px;
+}
+
